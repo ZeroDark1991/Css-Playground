@@ -1,2 +1,2 @@
-# CssAnimation-Play
+# CssAnimation-Playground
 My CssAnimation Playground
